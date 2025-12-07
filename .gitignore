@@ -1,0 +1,6 @@
+.idea
+.vscode
+
+vendor
+var
+.DS_Store
