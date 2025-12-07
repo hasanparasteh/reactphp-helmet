@@ -22,7 +22,7 @@ the aggregator—just like the real Helmet.
 # 📦 Installation
 
 ```
-composer require hp/helmet
+composer require hasanparasteh/helmet
 ```
 
 # 🚀 Usage with ReactPHP

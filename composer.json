@@ -1,5 +1,5 @@
 {
-  "name": "hp/helmet",
+  "name": "hasanparasteh/helmet",
   "description": "Helmet.js-style security headers middleware for ReactPHP HTTP.",
   "type": "library",
   "license": "MIT",
